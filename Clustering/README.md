@@ -3,7 +3,7 @@ CS 383 Machine Learning Himanshu Gupta Assignment 2 README:
 Task: Implement our own version of k-means to cluster data. In order to
 visualize the cluster process, you’ll generate a video. Choose a frame
 rate that is natural for observing the changes in the association. Each
-frame of the video will be a plot showing the current clustering. If X
+frame of the video will be a plot showing the current clustering. If X
 has only 2 features, this will be a 2D plot. If it has 3 features
 (either natively, or after PCA reduction), then this will be a 3D plot.
 
