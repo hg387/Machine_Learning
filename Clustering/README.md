@@ -14,6 +14,10 @@ has only 2 features, this will be a 2D plot. If it has 3 features
 
 3)  Three video is attached with the submission with k=3,5,and 7.
 
-4)  Hw2.m is the source code for the program.
+4)  Hw2.m is the source code for the program. Run this using MATLAB.
+
+
+
+
 
 
